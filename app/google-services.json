@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "140681075309",
+    "firebase_url": "https://login-df46b.firebaseio.com",
+    "project_id": "login-df46b",
+    "storage_bucket": "login-df46b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:140681075309:android:3613eb6f110679fc",
+        "android_client_info": {
+          "package_name": "com.example.chethan.login"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "140681075309-svl9pas30l02c49jn8s2rr67j9a5u7bq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.chethan.login",
+            "certificate_hash": "3d1c8b34b1045d1ed96711e3280d29d40e050ce4"
+          }
+        },
+        {
+          "client_id": "140681075309-ksc3r2sgr75v2e1motfmhpfrpidsgljf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBR_rS6ef3vfjYmDzaekcYcAwzP94_FseI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "140681075309-ksc3r2sgr75v2e1motfmhpfrpidsgljf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
